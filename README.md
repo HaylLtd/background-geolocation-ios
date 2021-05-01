@@ -1,3 +1,5 @@
+** This project has been archived, and the files moved into the main repository for [cordova-background-geolocation-plugin](https://github.com/HaylLtd/cordova-background-geolocation-plugin) **
+
 Background Geolocation for iOS
 
 used by:
